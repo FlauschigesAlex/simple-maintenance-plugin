@@ -1,0 +1,10 @@
+{
+    "id": "simple-maintenance-plugin",
+    "name": "${project.artifactId}",
+    "version": "${project.version}",
+    "authors": [
+        "FlauschigesAlex"
+    ],
+    "main": "at.flauschigesalex.maintenance.SimpleMaintenancePlugin",
+    "url": "https://modrinth.com/plugin/simple-maintenance-plugin"
+}
